@@ -14,4 +14,6 @@
 
 <br>
 
-#### Run the following command in your terminal or code editor: "NPM INSTALL", to install all the necessary dependencies to execute the project, it will be running on port 3000.
+#### Run the following command in your terminal or code editor: "NPM INSTALL", to install all the dependencies necessary to run the project.
+
+#### To start the project, run the following command on your "NPM START" terminal, it will be executed on port 3000.
