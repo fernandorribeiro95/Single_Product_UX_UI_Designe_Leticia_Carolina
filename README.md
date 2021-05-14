@@ -22,6 +22,4 @@
 
 ## Follow the instructional video
 
-<br><br>
-
 ![Alt Text](https://github.com/fernandorribeiro95/Single_Product_UX_UI_Designe_Leticia_Carolina/blob/main/recordedVideo.gif)
