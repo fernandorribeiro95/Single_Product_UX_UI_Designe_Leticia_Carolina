@@ -24,4 +24,4 @@
 
 <br><br>
 
-<img src="https://github.com/fernandorribeiro95/Single_Product_UX_UI_Designe_Leticia_Carolina/blob/main/recordedVideo.gif" width="43.1rem" height="24.2rem" />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
