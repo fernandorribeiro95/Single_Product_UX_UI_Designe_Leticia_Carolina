@@ -17,3 +17,11 @@
 #### Run the following command in your terminal or code editor: "NPM INSTALL", to install all the dependencies necessary to run the project.
 
 #### To start the project, run the following command on your "NPM START" terminal, it will be executed on port 3000.
+
+<br><br>
+
+## Follow the instructional video
+
+<br><br>
+
+<img src="https://github.com/fernandorribeiro95/Single_Product_UX_UI_Designe_Leticia_Carolina/blob/main/recordedVideo.gif" width="43.1rem" height="24.2rem" />
